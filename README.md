@@ -16,6 +16,8 @@ Work To Be Done:
 - Add Custom features - rename a file upon pulling, resolution changes, format changes, save a config file for next time, etc. 
 - Windows Command Calls - WIP at the moment
 - Work with other shells (as needed)
+- Better Error Handling in certain areas (batch processing)
+- Work with other websites as well - where possible
 
 Requirements:
 - Python3
