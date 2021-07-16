@@ -15,6 +15,7 @@ Work To Be Done:
 - Multi-threading for batch processing
 - Add Custom features - rename a file upon pulling, resolution changes, format changes, save a config file for next time, etc. 
 - Windows Command Calls - WIP at the moment
+- Work with other shells (as needed)
 
 Requirements:
 - Python3
